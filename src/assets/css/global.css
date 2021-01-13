@@ -1,0 +1,25 @@
+body,
+html,
+#app {
+    height: 100%;
+    width: 100%;
+    min-width: 1306px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.el-table {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.el-card {
+    margin-top: 10px;
+}
+
+.ql-editor {
+    min-height: 300px;
+}
